@@ -115,7 +115,7 @@ class CompilersTest:
 
     def run_test(self):
         self.clear_screen()
-        print("=== Test sobre Compiladores e Intérpretes ===\n")
+        print("=== Test sobre Programacion Orientada a Objetos ===\n")
         
         for i, q in enumerate(self.questions, 1):
             print(q["question"])
