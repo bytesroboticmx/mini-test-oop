@@ -1,7 +1,7 @@
 #Autor: Dr. Aldo Gonzalez Vazquez
 #Licence: MIT
 #Version: 1.1
-#Mini-Test-OOP class cuichapa, Ver.
+#Mini-Test-OOP class
 import os
 
 class CompilersTest:
